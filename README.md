@@ -1,6 +1,6 @@
 # Calm Down and Gamble!
     
-When you have downtime between wipes, what do you do? Calm Down. And Gamble.     
+When you have downtime between wipes, what do you do? Calm Down and Gamble.     
      
 Authors: [Calm Down] US-Magtheridon - Gambling guild with a raiding problem.    
 Curse Download Page: http://mods.curse.com/addons/wow/calm-down-and-gamble    
